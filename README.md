@@ -1,18 +1,13 @@
-### Hi there 👋
+## 안녕하세요! 신입개발자를 꿈꾸는 주순태입니다.
 
-<!--
-**Stjoo0925/Stjoo0925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 거주지
+  * 성남시 분당구
 
-Here are some ideas to get you started:
+* 이메일
+  * stjoo0925@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={[handle](https://github.com/Stjoo0925)})](https://solved.ac/{[handle](https://github.com/Stjoo0925)})
--->
+* 나이
+  * 92년생
+  
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=Stjoo0925)](https://solved.ac/{Stjoo0925})
