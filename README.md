@@ -8,6 +8,6 @@
 
 * 나이
   * 92년생
-  
-[![Solved.ac
+
+ [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=Stjoo0925)](https://solved.ac/{Stjoo0925})
