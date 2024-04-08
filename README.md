@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Stjoo0925GitHub&fontSize=60" />
+
 ## 안녕하세요! 신입개발자를 꿈꾸는 주순태입니다.
 
 * 거주지
