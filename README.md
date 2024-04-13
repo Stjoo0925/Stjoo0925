@@ -15,4 +15,8 @@
     <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FStjoo0925%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
        </div> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stjoo0925&show_icons=true&theme=gruvbox)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/stjoo0925)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/epaEeCGpqn)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=stjoo0925&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=stjoo0925)  
