@@ -6,7 +6,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 안녕하세요! 반갑습니다. </div> 
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  Contact me </h2> <br> 
     <div align= "center"> <a href=mailto:stjoo0925@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stjoo0925@gmail.com"> </a>
          <a href=https://www.notion.so/b086d56329474d83bd2f0d0809631f39?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/b086d56329474d83bd2f0d0809631f39?pvs=4"> </a>
          <a href=https://discord.gg/Q5rchjTeZQ> <img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/Q5rchjTeZQ"> </a>
@@ -15,7 +15,7 @@
        </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Stjoo0925&bg_color=60,654ea3,eaafc8&title_color=ffffff&text_color=ffffff"
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Stjoo0925&bg_color=60,654ea3,eaafc8&title_color=ffffff&text_color=ffffff"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stjoo0925&layout=compact&bg_color=60,654ea3,eaafc8&title_color=ffffff&text_color=ffffff"
            /> </div> 
     </div>
