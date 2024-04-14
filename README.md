@@ -17,7 +17,7 @@
            /> </div> 
     </div>
 <div align="center">
-  ![GitHub streak stats](https://streak-stats.demolab.com/?user=stjoo0925)  
-</div>    
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=stjoo0925)  
+</div>
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/stjoo0925)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/epaEeCGpqn)  
