@@ -20,6 +20,4 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/stjoo0925)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/epaEeCGpqn)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=stjoo0925&show_icons=true)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=stjoo0925)  
