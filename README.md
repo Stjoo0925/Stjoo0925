@@ -16,8 +16,8 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stjoo0925&layout=compact&bg_color=60,654ea3,eaafc8&title_color=ffffff&text_color=ffffff"
            /> </div> 
     </div>
-    
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/stjoo0925)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/epaEeCGpqn)  
-
+<div align="center">
+  ![GitHub streak stats](https://streak-stats.demolab.com/?user=stjoo0925)  
+</div>    
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=stjoo0925)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/stjoo0925)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/epaEeCGpqn)  
