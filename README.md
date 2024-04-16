@@ -19,7 +19,5 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  🛠 Stats </h2>
 </div>
 <div align= "center"> 
-    <img height="135px" src="https://github-readme-stats.vercel.app/api?username=Stjoo0925&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&line_height=21&bg_color=60,bdc3c7,2c3e50&title_color=ffffff&text_color=ffffff"/>
-    <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stjoo0925&layout=compact&bg_color=60,bdc3c7,2c3e50&title_color=ffffff&text_color=ffffff"/> <br/>
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Stjoo0925&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&card_width=648&background=45%2Cbdc3c7%2C2c3e50&stroke=2c3e50&ring=1a252f&fire=1a252f&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=1a252f&sideLabels=FFFFFF&dates=E5E5E5&border=FFFFFF" alt="GitHub Streak" /></a>
 </div> 
