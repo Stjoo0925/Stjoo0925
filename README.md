@@ -1,7 +1,8 @@
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:bdc3c7,100:2c3e50&height=120&text=Stjoo's%20Github&animation=fadeIn&fontColor=ffffff&fontSize=36" alt="Github Banner" />
-</div>
+<div align= "center">
+    
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&fontAlign=30&fontSize=250&descAlign=60&descAlignY=50)
 
+</div>
 <div align="left"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ⭐ Greetings </h2>
 </div>
