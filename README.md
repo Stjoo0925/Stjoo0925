@@ -19,5 +19,9 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  🛠 Stats </h2>
 </div>
 <div align= "center"> 
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Stjoo0925&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&card_width=648&background=45%2Cbdc3c7%2C2c3e50&stroke=2c3e50&ring=1a252f&fire=1a252f&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=1a252f&sideLabels=FFFFFF&dates=E5E5E5&border=FFFFFF" alt="GitHub Streak" /></a>
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile-ui.vercel.app/api/github-stats?username=Stjoo0925&include_all_commits=true&pixelate_avatar=false&theme=road_trip&theme=road_trip&color=%23ffffffFF&hide=avatar">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile-ui.vercel.app/api/github-stats?username=Stjoo0925&include_all_commits=true&pixelate_avatar=false&theme=road_trip&theme=road_trip&color=%23ffffffFF&hide=avatar">
+  <img alt="github stats" src="https://pixel-profile-ui.vercel.app/api/github-stats?username=Stjoo0925&include_all_commits=true&pixelate_avatar=false&theme=road_trip&theme=road_trip&color=%23ffffffFF&hide=avatar">
+</picture>
 </div> 
