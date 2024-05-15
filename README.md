@@ -6,7 +6,7 @@
 </div>
     <div align= "lefr"> 
     <div class= "txc-textbox" style="background-color: #eeeeee; border: #c1c1c1 1px solid; padding: 10px;">
-    <p data-ke-size="size16"> 💠 안녕하세요! 반갑습니다. <br/><br/> 💠 토목설계를 하다 개발을 배우고 있습니다. <br/><br/> 💠 앞으로 창의적이고 효율적인 개발자가 되는 것이 목표입니다. <br/><br/> 💠 감사합니다! </p>
+    <p data-ke-size="size16"> 💠 안녕하세요! <br/><br/> 💠 토목설계를 하다 개발을 배우고 있습니다. <br/><br/> 💠 앞으로 창의적이고 효율적인 개발자가 되는 것이 목표입니다. <br/><br/> 💠 감사합니다! </p>
 </div> 
 <div align= "left">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  ⚡ Contact me </h2> <br>
