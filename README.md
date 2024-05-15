@@ -18,16 +18,13 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ⚡ Contact me </h2>
 </div>
 
-<div align="left"> 
-    <a href="mailto:stjoo0925@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
-    </a>
-    <a href="https://www.notion.so/b086d56329474d83bd2f0d0809631f39?pvs=4">
-        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" alt="Notion">
-    </a>
-    <a href="https://discord.gg/Q5rchjTeZQ">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-    </a>
+<div align= "left">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  ⚡ Contact me </h2> <br>
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](stjoo0925@gmail.com)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://www.notion.so/b086d56329474d83bd2f0d0809631f39?pvs=4)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Q5rchjTeZQ)
+
 </div>
 
 <div align="left"> 
