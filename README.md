@@ -1,8 +1,3 @@
-<div align= "center">
-    
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&fontAlign=30&fontSize=250&descAlign=60&descAlignY=50)
-
-</div>
 <div align="left"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ⭐ Greetings </h2>
 </div>
