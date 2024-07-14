@@ -30,6 +30,6 @@
     </picture>
 </div>
 
-<h2>벨로그 최신글</h2>
+<h2>👀 Velog</h2>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=stjoo0925)](https://velog.io/@stjoo0925/posts)
