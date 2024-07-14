@@ -29,3 +29,7 @@
         <img alt="github stats" src="https://pixel-profile-ui.vercel.app/api/github-stats?username=Stjoo0925&include_all_commits=true&pixelate_avatar=false&theme=road_trip&theme=road_trip&color=%23ffffffFF&hide=avatar">
     </picture>
 </div>
+
+<h2>벨로그 최신글</h2>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=stjoo0925)](https://velog.io/@stjoo0925/posts)
