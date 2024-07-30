@@ -33,3 +33,5 @@
 <h2>👀 Velog</h2>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=stjoo0925)](https://velog.io/@stjoo0925/posts)
+
+[![roadmap.sh](https://roadmap.sh/card/tall/66a64fdbee6a29a2edc98784?variant=dark&roadmaps=backend)](https://roadmap.sh)
