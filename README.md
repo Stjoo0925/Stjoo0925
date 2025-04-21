@@ -1,6 +1,6 @@
 ## 👋 Profile Card
 
-<img src="https://please-readme.vercel.app/api/card?username=stjoo0925&theme=cosmic&skills=JavaScript%2CTypeScript%2CReact%2CJava%2CSpring%2CPython%2CDocker%2CFigma&bio=%ED%95%AD%EC%83%81+%EA%B3%A0%EB%AF%BC%ED%95%98%EA%B3%A0+%EB%B0%A9%EB%B2%95%EC%9D%84+%EC%B0%BE%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80+%EB%90%98%EA%B2%A0%EC%8A%B5%EB%8B%88%EB%8B%A4%21&name=stjoo0925%27s+GitHub+Status&fontFamily=BMJUA_ttf" width="500" loading="lazy">
+<img src="https://please-readme.vercel.app/api/card?username=stjoo0925&theme=cosmic&skills=JavaScript%2CTypeScript%2CReact%2CJava%2CSpring%2CPython%2CDocker%2CFigma&bio=%ED%95%AD%EC%83%81+%EA%B3%A0%EB%AF%BC%ED%95%98%EA%B3%A0+%EB%B0%A9%EB%B2%95%EC%9D%84+%EC%B0%BE%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80+%EB%90%98%EA%B2%A0%EC%8A%B5%EB%8B%88%EB%8B%A4%21&name=%EC%A3%BC%EC%88%9C%ED%83%9C+%ED%94%84%EB%A1%9C%ED%95%84+%EC%B9%B4%EB%93%9C&fontFamily=BMJUA_ttf" width="500" loading="lazy" alt="주순태 프로필 카드's GitHub Profile">
 
 ## 🔗 SNS
 
