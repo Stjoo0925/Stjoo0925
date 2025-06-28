@@ -1,6 +1,10 @@
 ## 👋 Profile Card
 
-<img src="https://please-readme.vercel.app/api/card?username=stjoo0925&theme=cosmic&skills=JavaScript%2CTypeScript%2CReact%2CJava%2CSpring%2CPython%2CDocker%2CFigma&bio=%ED%95%AD%EC%83%81+%EA%B3%A0%EB%AF%BC%ED%95%98%EA%B3%A0+%EB%B0%A9%EB%B2%95%EC%9D%84+%EC%B0%BE%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80+%EB%90%98%EA%B2%A0%EC%8A%B5%EB%8B%88%EB%8B%A4%21&name=%EC%A3%BC%EC%88%9C%ED%83%9C+%ED%94%84%EB%A1%9C%ED%95%84+%EC%B9%B4%EB%93%9C&fontFamily=BMJUA_ttf" width="500" loading="lazy" alt="주순태 프로필 카드's GitHub Profile">
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile-ui.vercel.app/api/github-stats?username=stjoo0925&include_all_commits=true&pixelate_avatar=false&background=linear-gradient%280deg%2C+%232e222f00+0%25%2C+%23ffffff00+100%25%29+%2C+url%28https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2019%2F04%2F14%2F20%2F05%2Fduck-meet-4127713_1280.jpg%29&color=%23ffffffFF&hide=avatar">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile-ui.vercel.app/api/github-stats?username=stjoo0925&include_all_commits=true&pixelate_avatar=false&background=linear-gradient%280deg%2C+%232e222f00+0%25%2C+%23ffffff00+100%25%29+%2C+url%28https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2019%2F04%2F14%2F20%2F05%2Fduck-meet-4127713_1280.jpg%29&color=%23ffffffFF&hide=avatar">
+  <img alt="github stats" src="https://pixel-profile-ui.vercel.app/api/github-stats?username=stjoo0925&include_all_commits=true&pixelate_avatar=false&background=linear-gradient%280deg%2C+%232e222f00+0%25%2C+%23ffffff00+100%25%29+%2C+url%28https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2019%2F04%2F14%2F20%2F05%2Fduck-meet-4127713_1280.jpg%29&color=%23ffffffFF&hide=avatar">
+</picture>
 
 ## 🔗 SNS
 
