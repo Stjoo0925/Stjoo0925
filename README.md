@@ -1,6 +1,6 @@
 ## 👋 Profile Card
 
-![stjoo0925's Premium Profile Banner](https://please-readme-v2.vercel.app/api/card?username=stjoo0925&t=1772026188505)
+![stjoo0925's Premium Profile Banner](https://please-readme-v2.vercel.app/api/card?username=stjoo0925&title=Full-Stack%20Developer&t=1772029384964)
 
 ## 🔗 SNS
 
