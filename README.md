@@ -56,15 +56,4 @@
 
 <br/>
 
-## Activity
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=stjoo0925&show_icons=true&hide_border=true&bg_color=0f172a&title_color=20C997&text_color=cbd5e1&icon_color=818cf8&include_all_commits=true&count_private=true&hide_title=true&hide_rank=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stjoo0925&layout=compact&hide_border=true&bg_color=0f172a&title_color=20C997&text_color=cbd5e1&hide_title=true&langs_count=6" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stjoo0925&hide_border=true&bg_color=0f172a&color=cbd5e1&line=20C997&point=818cf8&area=true&area_color=20C997&hide_title=true" width="92%" alt="Contribution graph" />
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,100:0f172a&height=6" width="100%" alt="" />
