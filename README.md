@@ -10,37 +10,9 @@
 
 ## Focus
 
-<table border="0" cellspacing="0" cellpadding="12">
-<tr>
-<td width="33%" valign="top">
-
-### The whole product
-I don't split the screen from the server.<br/>
-From defining the problem to deploying<br/>
-something that actually runs,<br/>
-I keep widening the range one person can own.
-
-</td>
-<td width="33%" valign="top">
-
-### The screen users touch
-**React · TypeScript**<br/>
-Predictable state,<br/>
-types that catch mistakes early,<br/>
-and UI that delivers the design intent as-is.
-
-</td>
-<td width="33%" valign="top">
-
-### The server behind it
-**Java · Spring**<br/>
-Clear domain boundaries,<br/>
-readable APIs, and data flows<br/>
-that stay stable under change.
-
-</td>
-</tr>
-</table>
+- **The whole product.** I don't split the screen from the server. From defining the problem to deploying something that actually runs, I keep widening the range one person can own.
+- **The screen users touch.** React and TypeScript. Predictable state, types that catch mistakes early, and UI that delivers the design intent as-is.
+- **The server behind it.** Java and Spring. Clear domain boundaries, readable APIs, and data flows that stay stable under change.
 
 <br/>
 
