@@ -1,31 +1,17 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e1b4b&height=200&text=Soontae%20Joo&fontColor=e2e8f0&fontSize=64&fontAlignY=42&desc=Full-stack%20developer%20who%20ships%20products%20that%20actually%20run&descAlignY=68&descSize=18&animation=fadeIn" width="100%" alt="Soontae Joo — Full-stack developer who ships products that actually run" />
+<a href="https://portfolio-20260627.vercel.app">
+  <img src="./assets/cover.svg" width="100%" alt="The Stjoo0925 Review — Soontae Joo, AI-driven full-stack developer who ships products that actually run." />
+</a>
 
-<br/>
+<img src="./assets/story.svg" width="100%" alt="From the field to the code. Four years in civil engineering and urban development at Landmark &amp; Co. (2019–2023), full-stack and generative-AI training at Hi-Media Academy (2024), team lead on Narrativa, Leafresh and Afterburner, and researcher at Youscon R&amp;D Lab since 2025." />
 
-<p align="center">
-  <sub>Always questioning. Always finding a way.</sub>
-</p>
+<img src="./assets/work.svg" width="100%" alt="Selected work: Web CAD On-Prem, Remote Control, Git Scoop, MyTeam, LayLingo, Gitagotchi, please_readme, DSA." />
 
-<br/>
-
-## Focus
-
-- **The whole product.** I don't split the screen from the server. From defining the problem to deploying something that actually runs, I keep widening the range one person can own.
-- **The screen users touch.** React and TypeScript. Predictable state, types that catch mistakes early, and UI that delivers the design intent as-is.
-- **The server behind it.** Java and Spring. Clear domain boundaries, readable APIs, and data flows that stay stable under change.
-
-<br/>
-
-## Stack
+<img src="./assets/toolkit.svg" width="100%" alt="Toolkit: React, TypeScript, Next.js, Vue, Java and Spring, Node.js, FastAPI, Go, Rust, Flutter, Docker, GitHub Actions, AWS, Vercel." />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,java,spring,python,docker,git,figma&perline=9&theme=dark" alt="React, TypeScript, JavaScript, Java, Spring, Python, Docker, Git, Figma" />
+  <a href="https://portfolio-20260627.vercel.app"><img src="./assets/btn-portfolio.svg" height="48" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="https://velog.io/@stjoo0925"><img src="./assets/btn-velog.svg" height="48" alt="Velog" /></a>
+  &nbsp;
+  <a href="mailto:stjoo0925@gmail.com"><img src="./assets/btn-email.svg" height="48" alt="Email" /></a>
 </p>
-
-<p align="center">
-  <sub><b>Core</b> React · TypeScript · Java · Spring &nbsp;&nbsp;·&nbsp;&nbsp; <b>Also</b> Python · Docker · Figma</sub>
-</p>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,100:0f172a&height=6" width="100%" alt="" />
