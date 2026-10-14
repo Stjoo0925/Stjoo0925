@@ -1,12 +1,12 @@
 <a href="https://portfolio-20260627.vercel.app">
-  <img src="./assets/cover.svg" width="100%" alt="The Stjoo0925 Review — Soontae Joo, AI-driven full-stack developer who reads what clients need and solves the business problem." />
+  <img src="./assets/cover.svg?v=3" width="100%" alt="The Stjoo0925 Review — Soontae Joo, AI-driven full-stack developer who reads what clients need and solves the business problem." />
 </a>
 
-<img src="./assets/story.svg" width="100%" alt="From the field to the code. Landmark &amp; Co., civil and urban development (2019–2023); Hi-Media Academy full-stack and generative-AI courses (2024); team lead on Narrativa, Leafresh and Afterburner; researcher at Youscon R&amp;D Lab since 2025." />
+<img src="./assets/story.svg?v=3" width="100%" alt="From the field to the code. Construction systems engineering; civil engineering and real estate at Landmark &amp; Co. (2019–2023); Hi-Media Academy full-stack and generative-AI courses (2024); team lead on Narrativa, Leafresh and Afterburner; web developer and researcher at Youscon R&amp;D Lab since April 2025." />
 
-<img src="./assets/work.svg" width="100%" alt="Selected work. Team projects: Narrativa, Leafresh, Afterburner. Lab: please_readme, Gitagotchi, MarkUI, Renam." />
+<img src="./assets/work.svg?v=3" width="100%" alt="Selected work. Team projects: Narrativa, Leafresh, Afterburner. Lab: FairTrip, Oneulmohae, MarkUI, Renam." />
 
-<img src="./assets/toolkit.svg" width="100%" alt="Toolkit. Frontend: React, JavaScript, TypeScript. Backend: Java, Spring, ASP.NET, Node.js, Python. DevOps: PostgreSQL, AWS EC2, Docker, GitHub Actions. Collaboration: Figma, GitHub, Notion." />
+<img src="./assets/toolkit.svg?v=3" width="100%" alt="Toolkit. Frontend: React, Next.js, TypeScript, JavaScript. Backend: Java and Spring Boot, Node.js and Fastify, ASP.NET. Data: PostgreSQL, Prisma, Redis, Firebase, Cloudflare D1. DevOps: Docker, GitHub Actions, Nginx, IIS, GCP Cloud Run, Cloudflare Workers." />
 
 <p align="center">
   <a href="https://portfolio-20260627.vercel.app"><img src="./assets/btn-portfolio.svg" height="40" alt="Portfolio" /></a>
